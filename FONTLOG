@@ -1,0 +1,36 @@
+Reading Type Acknowledgement
+
+1.  FONTLOG for Acknowledgement
+This file provides detailed information on the Acknowledgement font software.
+This information should be distributed along with the Acknowledgement fonts and any derivative works.
+
+2.  Basic Font Information
+Acknowledgement was drawn in 1998. It was released without a license in 2001 (that release is considered version 1.0).
+From version 2.0a, Acknowledgement is still available freely but its use, distribution and reproduction is now governed by the terms of the SIL Open Font License. A copy is included with this distribution: see the License file.
+
+Family members:
+Acknowledgement
+
+You can read about Acknowledgement on my web site: http://www.readingtype.org.uk/
+
+
+3.  ChangeLog
+(This should list both major and minor changes, most recent first. Here are some examples:)
+
+March 2008 (Ben Weiner) Acknowledgement version 2.0a
+- Incorporation of the OFL license
+- Re-encoding font source files as FontForge ASCII text from MacroMedia Fontographer TrueType files
+- Some modifications to glyph outlines in the Roman font.
+
+April 2001 (Ben Weiner) Acknowledgement version 1.0
+- Initial release of font "Acknowledgement"
+
+4.  Acknowledgements
+(Here is where contributors can be acknowledged.
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: name
+E: email
+W: web address
+D: tweaked things
